@@ -1,0 +1,26 @@
+body{
+    background-color: #9bd6c7;
+}
+.titulo{
+    text-align: center;
+}
+.subtitulo{
+    text-align: center;
+}
+.img1{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.texto{
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 150px;
+    
+}
+.fondo{
+    background-color: #FAFAF5;
+    margin: 150px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
